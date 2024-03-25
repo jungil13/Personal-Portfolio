@@ -1,5 +1,8 @@
 # portfolio
 
+![port](https://github.com/jungil13/Personal-Portfolio/assets/145642451/1a0b3f7b-34fd-44d6-b798-036cd471ca6b)
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
