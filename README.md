@@ -1,4 +1,6 @@
 # portfolio
+Hosting using netlify
+https://66010237071f066c4b61a9d8--illustrious-jalebi-248c30.netlify.app/
 
 ![port](https://github.com/jungil13/Personal-Portfolio/assets/145642451/1a0b3f7b-34fd-44d6-b798-036cd471ca6b)
 
